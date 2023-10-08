@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filtro</name>
+   <tag></tag>
+   <elementGuidId>0af46565-c569-4059-8229-464502c79df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;header_container&quot;]/div[2]/div/span/select/option[3][count(. | //*[@class = 'product_sort_container']) = count(//*[@class = 'product_sort_container'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_sort_container</value>
+      <webElementGuid>68862ece-8b86-4992-8812-bddf9a5492d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;header_container&quot;]/div[2]/div/span/select/option[3]</value>
+      <webElementGuid>b16291d1-1eab-411e-90d0-e766d714cc17</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

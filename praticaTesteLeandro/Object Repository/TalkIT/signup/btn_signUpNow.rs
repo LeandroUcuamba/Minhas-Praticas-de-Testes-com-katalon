@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_signUpNow</name>
+   <tag></tag>
+   <elementGuidId>6ede781f-12b4-4655-b7b2-692f9f76b6e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;signup&quot;][count(. | //*[@id = 'signup']) = count(//*[@id = 'signup'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signup</value>
+      <webElementGuid>a540651c-89a9-4632-bea6-9d23c8ca9d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;signup&quot;]</value>
+      <webElementGuid>d7de95b4-ee00-4487-a453-27187d10dfe5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

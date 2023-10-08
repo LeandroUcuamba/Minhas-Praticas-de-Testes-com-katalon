@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_save</name>
+   <tag></tag>
+   <elementGuidId>e7428552-6bf3-4bcd-936f-4346f7f34ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btn-submit-sign-up&quot;][count(. | //*[@id = 'btn-submit-sign-up']) = count(//*[@id = 'btn-submit-sign-up'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-submit-sign-up</value>
+      <webElementGuid>d96b63cd-fca4-4035-9596-bbfdb7e841e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btn-submit-sign-up&quot;]</value>
+      <webElementGuid>d2c4370b-451a-46de-b55a-3b8e3e3ed044</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
